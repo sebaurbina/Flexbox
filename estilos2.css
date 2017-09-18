@@ -1,0 +1,15 @@
+section {
+    width: 100%;
+    display: inline-flex;
+    justify-content: flex-start;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+section article {
+    width: 22%;
+}
+
+section h2 {
+    width: 100%;
+}
